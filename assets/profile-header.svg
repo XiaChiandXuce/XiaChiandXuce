@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">唐英昊的 GitHub 主页横幅</title>
+  <desc id="desc">机器人本体、强化学习、计算机视觉与开发者工具</desc>
+  <rect width="1200" height="300" fill="#142029"/>
+  <path d="M0 286h1200" stroke="#3e515c" stroke-width="2"/>
+  <path d="M880 0v300M1040 0v300" stroke="#283944" stroke-width="1"/>
+  <path d="M850 36h83l64 68M1160 36h-83l-64 68M1005 158v104" fill="none" stroke="#f5f7f6" stroke-width="17" stroke-linecap="square"/>
+  <circle cx="1005" cy="136" r="22" fill="#ef714a"/>
+  <path d="M835 136h100M1075 136h100" stroke="#536872" stroke-width="1" stroke-dasharray="7 9"/>
+  <text x="54" y="64" fill="#ef714a" font-family="Consolas, monospace" font-size="17" letter-spacing="3">TANG YINGHAO / ENGINEERING NOTES</text>
+  <text x="52" y="162" fill="#fff" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="67" font-weight="700">唐英昊</text>
+  <text x="56" y="211" fill="#d5e3e5" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="24">机器人本体 · 强化学习 · 计算机视觉 · 开发者工具</text>
+  <text x="56" y="265" fill="#8ba4af" font-family="Consolas, monospace" font-size="16">SENSE  /  DECIDE  /  ACT  /  VERIFY</text>
+</svg>
