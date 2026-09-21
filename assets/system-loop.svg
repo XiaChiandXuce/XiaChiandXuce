@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering loop</title>
+  <desc id="desc">Sense, decide, act, verify. Robot sensors feed planning, control, and safety validation.</desc>
+  <rect width="1200" height="205" rx="8" fill="#17242d"/>
+  <path d="M58 101H1142" fill="none" stroke="#4a5a63" stroke-width="2"/>
+  <path d="M266 101l-10-6v12zM548 101l-10-6v12zM830 101l-10-6v12z" fill="#f76c46"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(56 0)">
+      <circle cx="0" cy="101" r="8" fill="#f76c46"/>
+      <text x="22" y="72" fill="#f76c46" font-size="15" font-weight="700">01 / INPUT</text>
+      <text x="22" y="97" fill="#ffffff" font-size="26" font-weight="700">SENSE</text>
+      <text x="22" y="135" fill="#b8c7cf" font-size="15">LiDAR · camera · IMU</text>
+    </g>
+    <g transform="translate(338 0)">
+      <circle cx="0" cy="101" r="8" fill="#f76c46"/>
+      <text x="22" y="72" fill="#f76c46" font-size="15" font-weight="700">02 / MODEL</text>
+      <text x="22" y="97" fill="#ffffff" font-size="26" font-weight="700">DECIDE</text>
+      <text x="22" y="135" fill="#b8c7cf" font-size="15">SLAM · Nav2 · policy</text>
+    </g>
+    <g transform="translate(620 0)">
+      <circle cx="0" cy="101" r="8" fill="#f76c46"/>
+      <text x="22" y="72" fill="#f76c46" font-size="15" font-weight="700">03 / CONTROL</text>
+      <text x="22" y="97" fill="#ffffff" font-size="26" font-weight="700">ACT</text>
+      <text x="22" y="135" fill="#b8c7cf" font-size="15">robot body · actuator</text>
+    </g>
+    <g transform="translate(902 0)">
+      <circle cx="0" cy="101" r="8" fill="#f76c46"/>
+      <text x="22" y="72" fill="#f76c46" font-size="15" font-weight="700">04 / FEEDBACK</text>
+      <text x="22" y="97" fill="#ffffff" font-size="26" font-weight="700">VERIFY</text>
+      <text x="22" y="135" fill="#b8c7cf" font-size="15">logs · safety · tests</text>
+    </g>
+  </g>
+</svg>
