@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">CORE/DRIVE GitHub 头像</title>
+  <desc id="desc">芯片核心个人品牌标志</desc>
+  <rect width="256" height="256" rx="52" fill="#0C1318"/>
+  <g transform="translate(30 30) scale(.766)">
+    <path fill="#F4F6F7" d="M50 18h156l32 32v156l-32 32H50l-32-32V50z"/>
+    <path fill="#0C1318" d="M70 47h116l23 23v116l-23 23H70l-23-23V70z"/>
+    <path fill="#F4F6F7" d="M91 68h74l23 23v74l-23 23H91l-23-23V91z"/>
+    <path fill="#2864FF" d="m128 79 49 49-49 49-49-49z"/>
+    <path fill="#F4F6F7" d="m128 108 20 20-20 20-20-20z"/>
+  </g>
+</svg>
+
